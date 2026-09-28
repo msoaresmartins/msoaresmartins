@@ -9,4 +9,4 @@ Sou estudante de Engenharia de Computação na Universidade Federal de Goiás (U
 
 ## Interesses
 
-Robótica, visão computacional e cybersegurança.
+Robótica, visão computacional e cibersegurança.
