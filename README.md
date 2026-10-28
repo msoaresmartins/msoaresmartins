@@ -10,5 +10,5 @@ Sou estudante de Engenharia de Computação. Achei interessante usar o GitHub de
 
 ## Interesses
 
-Robótica, visão computacional e cibersegurança.
+Mecatrônica e cibersegurança.
 
