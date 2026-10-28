@@ -1,6 +1,6 @@
 # Marcelo Soares Martins 👋
 
-Sou estudante de Engenharia de Computação. Uso este perfil para organizar meus estudos e projetos.
+Sou estudante de Engenharia de Computação. Achei interessante usar o GitHub desde o começo para registrar o que estou fazendo no curso.
 
 ## Repositórios de estudo
 
